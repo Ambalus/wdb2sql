@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WDB name="creaturecache" format="n!s---ssiiiiiiiiiiffbiiiiiii" build="11723">
+	<field name="Id" type="uint32" key="yes" />
+	<field type="size" />
+	<field name="Name" type="string" />
+	<field type="string" />
+	<field type="string" />
+	<field type="string" />
+	<field name="Subname" type="string" />
+	<field name="IconName" type="string" />
+	<field name="Flags" type="uint32" />
+	<field name="Type" type="uint32" />
+	<field name="Family" type="uint32" />
+	<field name="Rank" type="uint32" />
+	<field name="KillCredit0" type="uint32" />
+	<field name="KillCredit1" type="uint32" />
+	<field name="ModelId0" type="uint32" />
+	<field name="ModelId1" type="uint32" />
+	<field name="ModelId2" type="uint32" />
+	<field name="ModelId3" type="uint32" />
+	<field name="HealthModifier" type="float" />
+	<field name="PowerModifier" type="float" />
+	<field name="RacialLeader" type="uint8" />
+	<field name="QuestItem0" type="uint32" />
+	<field name="QuestItem1" type="uint32" />
+	<field name="QuestItem2" type="uint32" />
+	<field name="QuestItem3" type="uint32" />
+	<field name="QuestItem4" type="uint32" />
+	<field name="QuestItem5" type="uint32" />
+	<field name="MovementId" type="uint32" />
+</WDB>

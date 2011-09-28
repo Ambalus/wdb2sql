@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WDB name="gameobjectcache" format="n!iis---sssiiiiiiiiiiiiiiiiiiiiiiiifiiiiii" build="11723">
+	<field name="Id" type="uint32" key="yes" />
+	<field type="size" />
+	<field name="Type" type="uint32" />
+	<field name="DisplayId" type="uint32" />
+	<field name="Name" type="string" />
+	<field type="string" />
+	<field type="string" />
+	<field type="string" />
+	<field name="IconName" type="string" />
+	<field name="CastBarCaption" type="string" />
+	<field name="Unk1" type="string" />
+	<field name="data0" type="uint32" />
+	<field name="data1" type="uint32" />
+	<field name="data2" type="uint32" />
+	<field name="data3" type="uint32" />
+	<field name="data4" type="uint32" />
+	<field name="data5" type="uint32" />
+	<field name="data6" type="uint32" />
+	<field name="data7" type="uint32" />
+	<field name="data8" type="uint32" />
+	<field name="data9" type="uint32" />
+	<field name="data10" type="uint32" />
+	<field name="data11" type="uint32" />
+	<field name="data12" type="uint32" />
+	<field name="data13" type="uint32" />
+	<field name="data14" type="uint32" />
+	<field name="data15" type="uint32" />
+	<field name="data16" type="uint32" />
+	<field name="data17" type="uint32" />
+	<field name="data18" type="uint32" />
+	<field name="data19" type="uint32" />
+	<field name="data20" type="uint32" />
+	<field name="data21" type="uint32" />
+	<field name="data22" type="uint32" />
+	<field name="data23" type="uint32" />
+	<field name="Size" type="float" />
+	<field name="QuestItem0" type="uint32" />
+	<field name="QuestItem1" type="uint32" />
+	<field name="QuestItem2" type="uint32" />
+	<field name="QuestItem3" type="uint32" />
+	<field name="QuestItem4" type="uint32" />
+	<field name="QuestItem5" type="uint32" />
+</WDB>

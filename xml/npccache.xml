@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WDB name="npccache" format="n!fssiiiiiiifssiiiiiiifssiiiiiiifssiiiiiiifssiiiiiiifssiiiiiiifssiiiiiii" build="11723">
+	<field name="Id" type="uint32" key="yes" />
+	<field type="size" />
+	<field type="struct" count="8" />
+		<element name="prob" type="float" />
+		<element name="text%d_0" type="string" />
+		<element name="text%d_1" type="string" />
+		<element name="lang" type="uint32" />
+		<element name="em%d_0" type="uint32" />
+		<element name="em%d_1" type="uint32" />
+		<element name="em%d_2" type="uint32" />
+		<element name="em%d_3" type="uint32" />
+		<element name="em%d_4" type="uint32" />
+		<element name="em%d_5" type="uint32" />
+	</field>
+</WDB>

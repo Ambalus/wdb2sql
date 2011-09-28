@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WDB name="itemnamecache" format="n!si" build="11723">
+	<field name="Id" type="uint32" key="yes" />
+	<field type="size" />
+	<field name="Name" type="string" />
+	<field name="InventoryType" type="uint32" />
+</WDB>

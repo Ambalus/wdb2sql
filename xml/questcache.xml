@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WDB name="questcache" format="n!+iiiiiiiiiiixiiiiifiiiiiixiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiffxsssssiiiiiiiiiiiiiiiiiiiiiiiiiiiissss" build="11723">
+	<field name="Id" type="uint32" key="yes" />
+	<field type="size" />
+	<field type="uint32" />
+	<field name="Method" type="uint32" />
+	<field name="QuestLevel" type="uint32" />
+	<field name="MinLevel" type="uint32" />
+	<field name="ZoneOrSort" type="uint32" />
+	<field name="Type" type="uint32" />
+	<field name="SuggestedPlayers" type="uint32" />
+	<field type="struct" count="2" />
+		<element name="RepObjectiveFaction" type="uint32" />
+		<element name="RepObjectiveValue" type="uint32" />
+	</field>
+	<field name="NextQuestInChain" type="uint32" />
+	<field name="Unk1" type="unknown" />
+	<field name="RewOrReqMoney" type="uint32" />
+	<field name="RewMoneyMaxLevel" type="uint32" />
+	<field name="RewSpell" type="uint32" />
+	<field name="RewSpellCast" type="uint32" />
+	<field name="Honor1" type="uint32" />
+	<field name="Honor2" type="float" />
+	<field name="SrcItemId" type="uint32" />
+	<field name="QuestFlags" type="uint32" />
+	<field name="CharTitleId" type="uint32" />
+	<field name="PlayersSlain" type="uint32" />
+	<field name="BonusTalents" type="uint32" />
+	<field name="BonusArenaPoints" type="uint32" />
+	<field name="Unk2" type="unknown" />
+	<field type="struct" count="4" />
+		<element name="RewItemId" type="unknown" />
+		<element name="RewItemCount" type="uint32" />
+	</field>
+	<field type="struct" count="6" />
+		<element name="RewChoiceItemId" type="uint32" />
+		<element name="RewChoiceItemCount" type="uint32" />
+	</field>
+	<field name="RawFactionId0" type="uint32" />
+	<field name="RawFactionId1" type="uint32" />
+	<field name="RawFactionId2" type="uint32" />
+	<field name="RawFactionId3" type="uint32" />
+	<field name="RawFactionId4" type="uint32" />
+	<field name="RawFactionVal0" type="uint32" />
+	<field name="RawFactionVal1" type="uint32" />
+	<field name="RawFactionVal2" type="uint32" />
+	<field name="RawFactionVal3" type="uint32" />
+	<field name="RawFactionVal4" type="uint32" />
+	<field name="RawFactionValOverride0" type="uint32" />
+	<field name="RawFactionValOverride1" type="uint32" />
+	<field name="RawFactionValOverride2" type="uint32" />
+	<field name="RawFactionValOverride3" type="uint32" />
+	<field name="RawFactionValOverride4" type="uint32" />
+	<field name="PointMapId" type="uint32" />
+	<field name="PointX" type="float" />
+	<field name="PointY" type="float" />
+	<field name="Unk3" type="unknown" />
+	<field name="Title" type="string" />
+	<field name="Objectives" type="string" />
+	<field name="Details" type="string" />
+	<field name="ToDoText" type="string" />
+	<field name="EndText" type="string" />
+	<field type="struct" count="4" />
+		<element name="ReqCreatureOrGOId" type="string" />
+		<element name="ReqCreatureOrGOCount" type="uint32" />
+		<element name="ReqSourceId" type="uint32" />
+		<element name="ReqSourceIdMaxCount" type="uint32" />
+	</field>
+	<field type="struct" count="6" />
+		<element name="ReqItemId" type="uint32" />
+		<element name="ReqItemCount" type="uint32" />
+	</field>
+	<field name="ObjectiveText0" type="string" />
+	<field name="ObjectiveText1" type="string" />
+	<field name="ObjectiveText2" type="string" />
+	<field name="ObjectiveText3" type="string" />
+</WDB>

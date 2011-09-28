@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WDB name="itemtextcache" format="n!s" build="11723">
+	<field name="Id" type="uint32" key="yes" />
+	<field type="size" />
+	<field name="Text" type="string" />
+</WDB>
